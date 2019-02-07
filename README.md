@@ -1,3 +1,5 @@
+[Текст ссылки](адрес://ссылки.здесь "Заголовок ссылки")
+
 People
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
