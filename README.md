@@ -1,4 +1,4 @@
-[Текст ссылки](адрес://ссылки.здесь "Заголовок ссылки")
+[Forked from](https://gist.github.com/rxaviers/7360908 "rxaviers/gist:7360908")
 
 People
 
